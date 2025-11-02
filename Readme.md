@@ -21,4 +21,8 @@ python workflow.py
 - Look at results_RAG.json for the matched jobs (RAG)
 
 
+## Notes in the Results
+- The solution is designed to minize the error margine (outputs almost identical) BUT with the risk of high varient outliers (LLM hallucination 10-15% chance)
+- For Production: Run odd number of calls and use the Mode (the most frequent - less probably to be the hallucintaed output- )
+
 ~Omar
