@@ -1,5 +1,5 @@
 ## Deterministic Candidate Evaluation
-# Read: Omar's Solution Slides
+### Read: OmarSolutionSlides.pdf
 
 Picks a random Candidate, match with the approperiate job using similarity search (RAG), run an evaluating LLM 10 times
 
