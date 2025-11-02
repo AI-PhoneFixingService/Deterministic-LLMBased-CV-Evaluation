@@ -22,7 +22,7 @@ python workflow.py
 
 
 ## Notes on the Results
-- The solution is designed to minize the error margine (outputs almost identical) BUT with the risk of high varient outliers (LLM hallucination 10-15% chance)
-- For Production: Run odd number of calls and use the Mode (the most frequent - less probably to be the hallucintaed output- )
+- The solution is designed to minimize the error margine (outputs almost identical) BUT with the risk of high varient outliers (LLM hallucination 10-15% chance)
+- For Production: Run odd number of calls and use the Mode value as the output (the most frequent - less probably to be the hallucintaed output- )
 
 ~Omar
