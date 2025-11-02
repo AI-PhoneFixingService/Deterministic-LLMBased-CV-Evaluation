@@ -1,0 +1,726 @@
+[
+    {
+        "candidate": {
+            "name": "Steven Thornton",
+            "email": "steven.thornton4693@example.com",
+            "summary": "Growth Marketer with \u22489.5 years in Marketing delivering measurable outcomes and collaboration.",
+            "skills": [
+                "Analytics",
+                "Google Ads",
+                "Meta Ads",
+                "HubSpot",
+                "Problem Solving",
+                "Adaptability",
+                "Collaboration",
+                "PowerPoint",
+                "Jira"
+            ],
+            "experience": [
+                {
+                    "title": "Associate Growth Marketer",
+                    "company": "Novanta Advisory",
+                    "start": "2016-07",
+                    "end": "2017-02",
+                    "bullets": [
+                        "Delivered 4 projects using SEO, CRM, Meta Ads with measurable KPIs.",
+                        "Improved reliability by 17%.",
+                        "Collaborated with 9 stakeholders to ship on schedule."
+                    ]
+                },
+                {
+                    "title": "Growth Marketer",
+                    "company": "Arcadia Partners",
+                    "start": "2017-09",
+                    "end": "2019-12",
+                    "bullets": [
+                        "Delivered 6 projects using CRM, HubSpot, Content Strategy with measurable KPIs.",
+                        "Improved NPS by 20%.",
+                        "Collaborated with 8 stakeholders to ship on schedule."
+                    ]
+                },
+                {
+                    "title": "Senior Growth Marketer",
+                    "company": "Nexora Technologies",
+                    "start": "2019-01",
+                    "end": "2022-07",
+                    "bullets": [
+                        "Delivered 6 projects using Google Ads, HubSpot, Meta Ads with measurable KPIs.",
+                        "Improved process efficiency by 25%.",
+                        "Collaborated with 3 stakeholders to ship on schedule."
+                    ]
+                },
+                {
+                    "title": "Associate Growth Marketer",
+                    "company": "Nexora Group",
+                    "start": "2022-10",
+                    "end": "2025-12",
+                    "bullets": [
+                        "Delivered 3 projects using CRM, Content Strategy, WordPress with measurable KPIs.",
+                        "Improved NPS by 19%.",
+                        "Collaborated with 7 stakeholders to ship on schedule."
+                    ]
+                }
+            ],
+            "education": [
+                "B.Com Marketing",
+                "B.A. Marketing"
+            ],
+            "certifications": [
+                "HubSpot Inbound"
+            ],
+            "languages": [
+                "Arabic"
+            ],
+            "location": "Giza, Egypt"
+        },
+        "matching_jobs": [
+            {
+                "rank": 1,
+                "similarity_score": 0.7360547780990601,
+                "faiss_index": 318,
+                "job_id": "JOB-000319",
+                "job": {
+                    "id": "JOB-000319",
+                    "company": "Averix Systems",
+                    "title": "Growth Marketer",
+                    "sector": "Marketing",
+                    "location": "Hybrid \u2013 Cairo",
+                    "description": "We are hiring a Growth Marketer in Marketing to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Funnel Optimization",
+                        "Proficiency in Attribution",
+                        "Proficiency in Meta Ads",
+                        "Proficiency in Content Strategy",
+                        "Proficiency in WordPress",
+                        "Proficiency in Copywriting",
+                        "7+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience",
+                        "Relevant certification preferred (Google Ads Certification)"
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "similarity_score": 0.7234342694282532,
+                "faiss_index": 40,
+                "job_id": "JOB-000041",
+                "job": {
+                    "id": "JOB-000041",
+                    "company": "Averix Systems",
+                    "title": "Growth Marketer",
+                    "sector": "Marketing",
+                    "location": "Alexandria, Egypt",
+                    "description": "We are hiring a Growth Marketer in Marketing to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Email Marketing",
+                        "Proficiency in SEO",
+                        "Proficiency in Meta Ads",
+                        "Proficiency in Google Ads",
+                        "Proficiency in Attribution",
+                        "Proficiency in CRM",
+                        "3+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience"
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "similarity_score": 0.7204688787460327,
+                "faiss_index": 18,
+                "job_id": "JOB-000019",
+                "job": {
+                    "id": "JOB-000019",
+                    "company": "Meridian Group",
+                    "title": "Growth Marketer",
+                    "sector": "Marketing",
+                    "location": "Giza, Egypt",
+                    "description": "We are hiring a Growth Marketer in Marketing to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Funnel Optimization",
+                        "Proficiency in WordPress",
+                        "Proficiency in SEM",
+                        "Proficiency in SEO",
+                        "Proficiency in Analytics",
+                        "Proficiency in CRM",
+                        "1+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience"
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "similarity_score": 0.7179872989654541,
+                "faiss_index": 255,
+                "job_id": "JOB-000256",
+                "job": {
+                    "id": "JOB-000256",
+                    "company": "Zafir Advisory",
+                    "title": "Growth Marketer",
+                    "sector": "Marketing",
+                    "location": "Hybrid \u2013 Cairo",
+                    "description": "We are hiring a Growth Marketer in Marketing to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Funnel Optimization",
+                        "Proficiency in SEM",
+                        "7+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders"
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "similarity_score": 0.7120867967605591,
+                "faiss_index": 73,
+                "job_id": "JOB-000074",
+                "job": {
+                    "id": "JOB-000074",
+                    "company": "TalaTech Technologies",
+                    "title": "Growth Marketer",
+                    "sector": "Marketing",
+                    "location": "Alexandria, Egypt",
+                    "description": "We are hiring a Growth Marketer in Marketing to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in SEO",
+                        "Proficiency in Analytics",
+                        "Proficiency in Funnel Optimization",
+                        "Proficiency in CRM",
+                        "Proficiency in Copywriting",
+                        "4+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "candidate": {
+            "name": "Anna Taylor",
+            "email": "anna.taylor3988@example.com",
+            "summary": "Supply Chain Analyst with \u22487.3 years in Operations & Supply Chain delivering measurable outcomes and collaboration.",
+            "skills": [
+                "Lean",
+                "Vendor Mgmt",
+                "Process Mapping",
+                "SAP",
+                "Inventory",
+                "Six Sigma",
+                "Oracle",
+                "Scheduling",
+                "ERP",
+                "Collaboration",
+                "Adaptability",
+                "Mentoring",
+                "Communication",
+                "Time Management",
+                "Figma",
+                "Excel"
+            ],
+            "experience": [
+                {
+                    "title": "Associate Supply Chain Analyst",
+                    "company": "Orlion Holdings",
+                    "start": "2013-06",
+                    "end": "2016-07",
+                    "bullets": [
+                        "Delivered 3 projects using Scheduling, Six Sigma, ERP with measurable KPIs.",
+                        "Improved performance by 19%.",
+                        "Collaborated with 3 stakeholders to ship on schedule."
+                    ]
+                },
+                {
+                    "title": "Associate Supply Chain Analyst",
+                    "company": "TalaTech Advisory",
+                    "start": "2016-01",
+                    "end": "2020-04",
+                    "bullets": [
+                        "Delivered 4 projects using Process Mapping, Lean, Scheduling with measurable KPIs.",
+                        "Improved performance by 34%.",
+                        "Collaborated with 10 stakeholders to ship on schedule."
+                    ]
+                }
+            ],
+            "education": [
+                "MBA"
+            ],
+            "certifications": [
+                "Six Sigma Green Belt",
+                "PMP"
+            ],
+            "languages": [
+                "Portuguese",
+                "English"
+            ],
+            "location": "Giza, Egypt"
+        },
+        "matching_jobs": [
+            {
+                "rank": 1,
+                "similarity_score": 0.7701867818832397,
+                "faiss_index": 100,
+                "job_id": "JOB-000101",
+                "job": {
+                    "id": "JOB-000101",
+                    "company": "Zafir Group",
+                    "title": "Supply Chain Analyst",
+                    "sector": "Operations & Supply Chain",
+                    "location": "Giza, Egypt",
+                    "description": "We are hiring a Supply Chain Analyst in Operations & Supply Chain to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Inventory",
+                        "Proficiency in Process Mapping",
+                        "Proficiency in Risk Mgmt",
+                        "Proficiency in ERP",
+                        "Proficiency in Project Planning",
+                        "5+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders"
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "similarity_score": 0.7541962265968323,
+                "faiss_index": 399,
+                "job_id": "JOB-000400",
+                "job": {
+                    "id": "JOB-000400",
+                    "company": "Velora Industries",
+                    "title": "Supply Chain Analyst",
+                    "sector": "Operations & Supply Chain",
+                    "location": "Hybrid \u2013 Cairo",
+                    "description": "We are hiring a Supply Chain Analyst in Operations & Supply Chain to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Scheduling",
+                        "Proficiency in Vendor Mgmt",
+                        "Proficiency in Project Planning",
+                        "Proficiency in Six Sigma",
+                        "6+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience",
+                        "Relevant certification preferred (Six Sigma Green Belt)"
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "similarity_score": 0.7355729341506958,
+                "faiss_index": 470,
+                "job_id": "JOB-000471",
+                "job": {
+                    "id": "JOB-000471",
+                    "company": "Zafir Solutions",
+                    "title": "Supply Chain Analyst",
+                    "sector": "Operations & Supply Chain",
+                    "location": "Hybrid \u2013 Cairo",
+                    "description": "We are hiring a Supply Chain Analyst in Operations & Supply Chain to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Oracle",
+                        "Proficiency in Six Sigma",
+                        "Proficiency in Vendor Mgmt",
+                        "7+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience"
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "similarity_score": 0.7330660820007324,
+                "faiss_index": 481,
+                "job_id": "JOB-000482",
+                "job": {
+                    "id": "JOB-000482",
+                    "company": "Velora Group",
+                    "title": "Supply Chain Analyst",
+                    "sector": "Operations & Supply Chain",
+                    "location": "Cairo, Egypt",
+                    "description": "We are hiring a Supply Chain Analyst in Operations & Supply Chain to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Scheduling",
+                        "Proficiency in Lean",
+                        "5+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders"
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "similarity_score": 0.714536726474762,
+                "faiss_index": 442,
+                "job_id": "JOB-000443",
+                "job": {
+                    "id": "JOB-000443",
+                    "company": "Arcadia Systems",
+                    "title": "Supply Chain Analyst",
+                    "sector": "Operations & Supply Chain",
+                    "location": "Cairo, Egypt",
+                    "description": "We are hiring a Supply Chain Analyst in Operations & Supply Chain to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Lean",
+                        "Proficiency in Project Planning",
+                        "7+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "candidate": {
+            "name": "Jesse Griffin",
+            "email": "jesse.griffin7135@example.com",
+            "summary": "Group PM with \u22489.8 years in Product Management delivering measurable outcomes and collaboration.",
+            "skills": [
+                "SQL",
+                "Monetization",
+                "Agile",
+                "Experimentation",
+                "User Research",
+                "Stakeholder Management",
+                "Adaptability",
+                "Leadership",
+                "Time Management",
+                "Communication",
+                "Jira"
+            ],
+            "experience": [
+                {
+                    "title": "Group PM",
+                    "company": "TalaTech Systems",
+                    "start": "2017-11",
+                    "end": "2021-09",
+                    "bullets": [
+                        "Delivered 2 projects using KPIs, Roadmapping, User Research with measurable KPIs.",
+                        "Improved conversions by 14%.",
+                        "Collaborated with 5 stakeholders to ship on schedule."
+                    ]
+                },
+                {
+                    "title": "Associate Group PM",
+                    "company": "Arcadia Networks",
+                    "start": "2021-10",
+                    "end": "2025-02",
+                    "bullets": [
+                        "Delivered 2 projects using Experimentation, Stakeholder Management, A/B Testing with measurable KPIs.",
+                        "Improved reliability by 9%.",
+                        "Collaborated with 7 stakeholders to ship on schedule."
+                    ]
+                },
+                {
+                    "title": "Group PM",
+                    "company": "Velora Technologies",
+                    "start": "2025-08",
+                    "end": "2028-04",
+                    "bullets": [
+                        "Delivered 4 projects using SQL, Stakeholder Management, Agile with measurable KPIs.",
+                        "Improved conversions by 7%.",
+                        "Collaborated with 3 stakeholders to ship on schedule."
+                    ]
+                }
+            ],
+            "education": [
+                "BBA",
+                "B.Sc. Information Systems"
+            ],
+            "certifications": [],
+            "languages": [
+                "Italian"
+            ],
+            "location": "Giza, Egypt"
+        },
+        "matching_jobs": [
+            {
+                "rank": 1,
+                "similarity_score": 0.7576966285705566,
+                "faiss_index": 411,
+                "job_id": "JOB-000412",
+                "job": {
+                    "id": "JOB-000412",
+                    "company": "Jadara Systems",
+                    "title": "Group PM",
+                    "sector": "Product Management",
+                    "location": "Cairo, Egypt",
+                    "description": "We are hiring a Group PM in Product Management to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in SQL",
+                        "Proficiency in KPIs",
+                        "Proficiency in Stakeholder Management",
+                        "3+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience"
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "similarity_score": 0.7555719614028931,
+                "faiss_index": 274,
+                "job_id": "JOB-000275",
+                "job": {
+                    "id": "JOB-000275",
+                    "company": "Arcadia Partners",
+                    "title": "Group PM",
+                    "sector": "Product Management",
+                    "location": "Giza, Egypt",
+                    "description": "We are hiring a Group PM in Product Management to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Monetization",
+                        "Proficiency in Stakeholder Management",
+                        "Proficiency in KPIs",
+                        "6+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders"
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "similarity_score": 0.7412559986114502,
+                "faiss_index": 429,
+                "job_id": "JOB-000430",
+                "job": {
+                    "id": "JOB-000430",
+                    "company": "Meridian Group",
+                    "title": "Group PM",
+                    "sector": "Product Management",
+                    "location": "Remote \u2013 EMEA",
+                    "description": "We are hiring a Group PM in Product Management to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in User Research",
+                        "Proficiency in Stakeholder Management",
+                        "Proficiency in SQL",
+                        "Proficiency in Story Mapping",
+                        "6+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience"
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "similarity_score": 0.7403827905654907,
+                "faiss_index": 482,
+                "job_id": "JOB-000483",
+                "job": {
+                    "id": "JOB-000483",
+                    "company": "Novanta Group",
+                    "title": "Group PM",
+                    "sector": "Product Management",
+                    "location": "Hybrid \u2013 Cairo",
+                    "description": "We are hiring a Group PM in Product Management to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Agile",
+                        "4+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders"
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "similarity_score": 0.7397671937942505,
+                "faiss_index": 2,
+                "job_id": "JOB-000003",
+                "job": {
+                    "id": "JOB-000003",
+                    "company": "Averix Systems",
+                    "title": "Group PM",
+                    "sector": "Product Management",
+                    "location": "Hybrid \u2013 Cairo",
+                    "description": "We are hiring a Group PM in Product Management to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Agile",
+                        "Proficiency in Roadmapping",
+                        "6+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "candidate": {
+            "name": "Bryan Woods",
+            "email": "bryan.woods2108@example.com",
+            "summary": "Contract Specialist with \u224810.5 years in Legal delivering measurable outcomes and collaboration.",
+            "skills": [
+                "Contract Law",
+                "Regulatory",
+                "Drafting",
+                "Legal Research",
+                "Litigation Support",
+                "Negotiation",
+                "Corporate Law",
+                "Compliance",
+                "Problem Solving",
+                "Communication",
+                "Mentoring",
+                "Collaboration",
+                "Leadership"
+            ],
+            "experience": [
+                {
+                    "title": "Associate Contract Specialist",
+                    "company": "Crestel Group",
+                    "start": "2015-02",
+                    "end": "2019-09",
+                    "bullets": [
+                        "Delivered 2 projects using Drafting, Litigation Support, Legal Research with measurable KPIs.",
+                        "Improved NPS by 16%.",
+                        "Collaborated with 7 stakeholders to ship on schedule."
+                    ]
+                },
+                {
+                    "title": "Senior Contract Specialist",
+                    "company": "Lumena Analytics",
+                    "start": "2019-09",
+                    "end": "2023-06",
+                    "bullets": [
+                        "Delivered 6 projects using Drafting, Contract Law, Corporate Law with measurable KPIs.",
+                        "Improved process efficiency by 8%.",
+                        "Collaborated with 3 stakeholders to ship on schedule."
+                    ]
+                },
+                {
+                    "title": "Senior Contract Specialist",
+                    "company": "Averix Solutions",
+                    "start": "2023-04",
+                    "end": "2025-06",
+                    "bullets": [
+                        "Delivered 6 projects using Corporate Law, Drafting, Litigation Support with measurable KPIs.",
+                        "Improved performance by 9%.",
+                        "Collaborated with 10 stakeholders to ship on schedule."
+                    ]
+                }
+            ],
+            "education": [
+                "LLM"
+            ],
+            "certifications": [
+                "LLB"
+            ],
+            "languages": [
+                "English",
+                "Italian"
+            ],
+            "location": "Alexandria, Egypt"
+        },
+        "matching_jobs": [
+            {
+                "rank": 1,
+                "similarity_score": 0.7475936412811279,
+                "faiss_index": 246,
+                "job_id": "JOB-000247",
+                "job": {
+                    "id": "JOB-000247",
+                    "company": "Lumena Systems",
+                    "title": "Contract Specialist",
+                    "sector": "Legal",
+                    "location": "Hybrid \u2013 Cairo",
+                    "description": "We are hiring a Contract Specialist in Legal to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Regulatory",
+                        "Proficiency in Due Diligence",
+                        "Proficiency in Compliance",
+                        "5+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience",
+                        "Relevant certification preferred (LLM)"
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "similarity_score": 0.7395371198654175,
+                "faiss_index": 128,
+                "job_id": "JOB-000129",
+                "job": {
+                    "id": "JOB-000129",
+                    "company": "Nexora Technologies",
+                    "title": "Contract Specialist",
+                    "sector": "Legal",
+                    "location": "Hybrid \u2013 Cairo",
+                    "description": "We are hiring a Contract Specialist in Legal to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Due Diligence",
+                        "Proficiency in Drafting",
+                        "Proficiency in Compliance",
+                        "Proficiency in Corporate Law",
+                        "2+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience"
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "similarity_score": 0.7382180094718933,
+                "faiss_index": 487,
+                "job_id": "JOB-000488",
+                "job": {
+                    "id": "JOB-000488",
+                    "company": "Polarion Networks",
+                    "title": "Contract Specialist",
+                    "sector": "Legal",
+                    "location": "Hybrid \u2013 Cairo",
+                    "description": "We are hiring a Contract Specialist in Legal to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Legal Research",
+                        "Proficiency in Regulatory",
+                        "Proficiency in Contract Law",
+                        "Proficiency in Compliance",
+                        "2+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders"
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "similarity_score": 0.7370319366455078,
+                "faiss_index": 256,
+                "job_id": "JOB-000257",
+                "job": {
+                    "id": "JOB-000257",
+                    "company": "Zafir Technologies",
+                    "title": "Contract Specialist",
+                    "sector": "Legal",
+                    "location": "Alexandria, Egypt",
+                    "description": "We are hiring a Contract Specialist in Legal to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Corporate Law",
+                        "Proficiency in Contract Law",
+                        "2+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience"
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "similarity_score": 0.7036562561988831,
+                "faiss_index": 159,
+                "job_id": "JOB-000160",
+                "job": {
+                    "id": "JOB-000160",
+                    "company": "Orlion Industries",
+                    "title": "Senior Counsel",
+                    "sector": "Legal",
+                    "location": "Cairo, Egypt",
+                    "description": "We are hiring a Senior Counsel in Legal to drive outcomes through domain expertise and cross-functional collaboration. Success is measured by impact, quality, and delivery speed.",
+                    "requirements": [
+                        "Proficiency in Regulatory",
+                        "Proficiency in Compliance",
+                        "Proficiency in Litigation Support",
+                        "Proficiency in Contract Law",
+                        "5+ years of relevant experience",
+                        "Evidence of ownership and collaboration with stakeholders",
+                        "Bachelor's degree or equivalent experience",
+                        "Relevant certification preferred (LLM)"
+                    ]
+                }
+            }
+        ]
+    }
+]
